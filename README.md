@@ -1,2 +1,2 @@
 # Apple
-All original code for the Apple webpage that I made for a final exam project as part of a course I was doing.
+All original code for the Apple webpage that I made for a final exam project as part of a course I was doing. Responsivnes for different screen sizes will soon be added.
